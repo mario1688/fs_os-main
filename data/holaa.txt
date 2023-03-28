@@ -1,0 +1,6 @@
+host : $ {os.hostname()}
+
+plataForma : win32
+procesador : AMD Ryzen 7 5700U with Radeon Graphics         
+arquitectura : x64
+MemoriaEnBits : 16456183808 bytes
